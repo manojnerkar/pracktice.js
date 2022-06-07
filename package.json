@@ -1,0 +1,19 @@
+{
+  "name": "pracktice",
+  "version": "1.0.0",
+  "description": "This is just json file wwill help me to undersanrd what is packge.json is ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "manoj",
+    "nekrar"
+  ],
+  "author": "Manoj Nerkar",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "colors": "^1.4.0"
+  }
+}
